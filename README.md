@@ -9,6 +9,6 @@ Choosing best hypothies is done based on probability of how hypothesis is perfor
 thats one of the application of bayesian learning.
 Soon i will come up how to code linear regression , Knn , Artifical neural networks , and SVM from scratch with a seperate repository.
 
-Then there are few examples how linear regression and other types of regressions like LAssco , rigde work and bascally plotting all the 
+Then there are few examples how linear regression and other types of regressions like Lassco , rigde regression and basically plotting all the 
 graohs using seaborn lmplot to view the polynomial regression visually and then making content out of it .
 
